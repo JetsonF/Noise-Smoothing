@@ -1,2 +1,6 @@
 # Noise-Smoothing
-A display of random noise which is smoothed by averaging between neighboring values.
+
+This code generates a grid of random noise values and subsequently employs a process of averaging these values with their neighboring counterparts to achieve a smoothing effect on the overall noise pattern.
+
+Uses Python 3
+No external files
